@@ -767,11 +767,11 @@ dt {
   box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(0, 0, 0, 0);
 }
 #header nav li.fork {
-  float: left;
-  margin-left: 0px;
+  float: right;
+  margin-left: 4px;
 }
 #header nav li.downloads {
-  float: right;
+  float: left;
   margin-left: 6px;
 }
 #header nav li.title {
@@ -779,7 +779,6 @@ dt {
   margin-right: 10px;
   font-size: 11px;
 }
-
 section {
   max-width: 650px;
   padding: 30px 0px 50px 0px;
